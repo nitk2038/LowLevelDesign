@@ -3,14 +3,14 @@
 - Mnemonics : 2MICS On TV
 
 - Patterns :
-	- [[Chain of Responsibility Pattern]]
-	- [[Command Pattern]]
-	- [[Interpreter Pattern]]
-	- [[Iterator Pattern]]
-	- [[Mediator Pattern]]
-	- [[Memento Pattern]]
-	- [[Observer Pattern]]
-	- [[State Pattern]]
-	- [[Strategy Pattern]]
-	- [[Template Method Pattern]]
-	- [[Visitor Pattern]]
+- [Chain of Responsibility Pattern](BehaviouralDesignPattern/notes/Chain%20of%20Responsibility%20Pattern.md)
+- [Command Pattern](BehaviouralDesignPattern/notes/Command%20Pattern.md)
+- [Interpreter Pattern](BehaviouralDesignPattern/notes/Interpreter%20Pattern.md)
+- [Iterator Pattern](BehaviouralDesignPattern/notes/Iterator%20Pattern.md)
+- [Mediator Pattern](BehaviouralDesignPattern/notes/Mediator%20Pattern.md)
+- [Memento Pattern](BehaviouralDesignPattern/notes/Memento%20Pattern.md)
+- [Observer Pattern](BehaviouralDesignPattern/notes/Observer%20Pattern.md)
+- [State Pattern](BehaviouralDesignPattern/notes/State%20Pattern.md)
+- [Strategy Pattern](BehaviouralDesignPattern/notes/Strategy%20Pattern.md)
+- [Template Method Pattern](BehaviouralDesignPattern/notes/Template%20Method%20Pattern.md)
+- [Visitor Pattern](BehaviouralDesignPattern/notes/Visitor%20Pattern.md)

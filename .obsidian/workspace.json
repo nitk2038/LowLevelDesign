@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dccf0a8db1052b48",
+        "id": "6751eaf3daf7f534",
         "type": "tabs",
         "children": [
           {
-            "id": "843d74b3f58f5ce7",
+            "id": "148e6dbd1f7a9a89",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,9 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "843d74b3f58f5ce7",
+  "active": "148e6dbd1f7a9a89",
   "lastOpenFiles": [
-    "BehaviouralDesignPattern/notes/Chain of Responsibility Pattern.md",
-    "readme.md"
+    "readme.md",
+    "BehaviouralDesignPattern/notes/Chain of Responsibility Pattern.md"
   ]
 }
