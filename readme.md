@@ -1,0 +1,16 @@
+- Are focused on how objects interact with one another
+- Often times, when we are trying to be more loosely coupled it leads us to behavioural pattern.
+- Mnemonics : 2MICS On TV
+
+- Patterns :
+	- [[Chain of Responsibility Pattern]]
+	- [[Command Pattern]]
+	- [[Interpreter Pattern]]
+	- [[Iterator Pattern]]
+	- [[Mediator Pattern]]
+	- [[Memento Pattern]]
+	- [[Observer Pattern]]
+	- [[State Pattern]]
+	- [[Strategy Pattern]]
+	- [[Template Method Pattern]]
+	- [[Visitor Pattern]]
