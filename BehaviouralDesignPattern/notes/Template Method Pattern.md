@@ -107,5 +107,18 @@ public class OnlineOrder extends OrderTemplate {
 
 Output
 ```
+Template pattern
+--- STORE ORDER ----- 
+ADD ITEMS TO BAG
+PAY IN CASH
+RECEIPT PRINTED....
+PACK ITEMS FROM BAG
+------------------------
+--- ONLINE ORDER ----- 
+ADD ITEMS TO CART
+SWIPE WITH CARD OR DO PAYMENT WITH UPI
+INVOICE SENT TO MAIL
+DELIVERING ITEMS IN 1 WEEK
+------------------------
 
 ```
