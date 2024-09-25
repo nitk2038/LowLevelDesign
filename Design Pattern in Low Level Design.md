@@ -1,18 +1,18 @@
 ## Creational Design Pattern
-- [Singleton Design Pattern](StructuralDesignPattern/notes/Singleton%20Design%20Pattern.md)
-- [Prototype Design Pattern](StructuralDesignPattern/notes/Prototype%20Design%20Pattern.md)
-- [Factory Design Pattern](StructuralDesignPattern/notes/Factory%20Design%20Pattern.md)
-- [Abstract Factory Design Pattern](StructuralDesignPattern/notes/Abstract%20Factory%20Design%20Pattern.md)
-- [Builder Design Pattern](StructuralDesignPattern/notes/Builder%20Design%20Pattern.md)
+- [Singleton Design Pattern](CreationalDesignPattern/notes/Singleton%20Design%20Pattern.md)
+- [Prototype Design Pattern](CreationalDesignPattern/notes/Prototype%20Design%20Pattern.md)
+- [Factory Design Pattern](CreationalDesignPattern/notes/Factory%20Design%20Pattern.md)
+- [Abstract Factory Design Pattern](CreationalDesignPattern/notes/Abstract%20Factory%20Design%20Pattern.md)
+- [Builder Design Pattern](CreationalDesignPattern/notes/Builder%20Design%20Pattern.md)
 ## Structural Design Pattern
 - Two Objects clubbing together to form a bigger structure to solve a particular requirement.
-- [Adapter Design Pattern](CreationalDesignPattern/notes/Adapter%20Design%20Pattern.md)
-- [Bridge Design Pattern](CreationalDesignPattern/notes/Bridge%20Design%20Pattern.md)
-- [Composite Design Pattern](CreationalDesignPattern/notes/Composite%20Design%20Pattern.md)
-- [Decorator Design Pattern](CreationalDesignPattern/notes/Decorator%20Design%20Pattern.md)
-- [Facade Design Pattern](CreationalDesignPattern/notes/Facade%20Design%20Pattern.md)
-- [Flyweight Design Pattern](CreationalDesignPattern/notes/Flyweight%20Design%20Pattern.md)
-- [Proxy Design Pattern](CreationalDesignPattern/notes/Proxy%20Design%20Pattern.md)
+- [Adapter Design Pattern](StructuralDesignPattern/notes/Adapter%20Design%20Pattern.md)
+- [Bridge Design Pattern](StructuralDesignPattern/notes/Bridge%20Design%20Pattern.md)
+- [Composite Design Pattern](StructuralDesignPattern/notes/Composite%20Design%20Pattern.md)
+- [Decorator Design Pattern](StructuralDesignPattern/notes/Decorator%20Design%20Pattern.md)
+- [Facade Design Pattern](StructuralDesignPattern/notes/Facade%20Design%20Pattern.md)
+- [Flyweight Design Pattern](StructuralDesignPattern/notes/Flyweight%20Design%20Pattern.md)
+- [Proxy Design Pattern](StructuralDesignPattern/notes/Proxy%20Design%20Pattern.md)
 ## Behavioural Design Pattern
 - Are focused on how objects interact with one another
 - Often times, when we are trying to be more loosely coupled it leads us to behavioural pattern.
