@@ -1,10 +1,11 @@
-## Creational Design Pattern
+## Creational Design Pattern (## Abraham becomes First President of State)
+- Create objects or controls creation of objects.
 - [Singleton Design Pattern](CreationalDesignPattern/notes/Singleton%20Design%20Pattern.md)
 - [Prototype Design Pattern](CreationalDesignPattern/notes/Prototype%20Design%20Pattern.md)
 - [Factory Design Pattern](CreationalDesignPattern/notes/Factory%20Design%20Pattern.md)
 - [Abstract Factory Design Pattern](CreationalDesignPattern/notes/Abstract%20Factory%20Design%20Pattern.md)
 - [Builder Design Pattern](CreationalDesignPattern/notes/Builder%20Design%20Pattern.md)
-## Structural Design Pattern
+## Structural Design Pattern  (# ABCDFFP)
 - Two Objects clubbing together to form a bigger structure to solve a particular requirement.
 - [Adapter Design Pattern](StructuralDesignPattern/notes/Adapter%20Design%20Pattern.md)
 - [Bridge Design Pattern](StructuralDesignPattern/notes/Bridge%20Design%20Pattern.md)
@@ -13,10 +14,9 @@
 - [Facade Design Pattern](StructuralDesignPattern/notes/Facade%20Design%20Pattern.md)
 - [Flyweight Design Pattern](StructuralDesignPattern/notes/Flyweight%20Design%20Pattern.md)
 - [Proxy Design Pattern](StructuralDesignPattern/notes/Proxy%20Design%20Pattern.md)
-## Behavioural Design Pattern
+## Behavioural Design Pattern (# 2MICS On TV)
 - Are focused on how objects interact with one another
 - Often times, when we are trying to be more loosely coupled it leads us to behavioural pattern.
-- Mnemonics : 2MICS On TV
 
 - Patterns :
 - [Chain of Responsibility Pattern](BehaviouralDesignPattern/notes/Chain%20of%20Responsibility%20Pattern.md)
